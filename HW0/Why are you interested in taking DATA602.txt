@@ -1,0 +1,7 @@
+Why are you interested in taking DATA602?
+
+I have always been fascinated by the power of the data and the endless possibilities it offers to uncover patters and generate meaningful insights. I am excited to learn the complete data science life cycle, i.e, from data processing to visualization and decision-making.
+
+DATA602 offers exactly the kind of foundational knowledge and practical exposure I am looking for. What stood out even more is the utilization of case studies to illustrate key concepts and analyze real-world examples.
+
+By the end of this course, I hope to gain technical proficiency and the confidence needed to approach data-driven problems thoughtfully and responsibly.
