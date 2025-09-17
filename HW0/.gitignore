@@ -1,2 +1,2 @@
-# Ignore .DAT files
+# Ignores all files with .DAT extension
 *.DAT
